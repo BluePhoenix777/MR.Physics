@@ -1,2 +1,1 @@
-# MR.Physics
-Physics
+# CP-2
